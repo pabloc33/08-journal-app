@@ -11,7 +11,7 @@ export const startLoginEmailPassword = (email, password) => {
     // auth()
     // signIn... email... password... (email,password)
     //dispatch(login(123, "Pedro"));
-    firebase
+    return firebase
       .auth()
       .signInWithEmailAndPassword(email, password)
       .then(({ user }) => {
