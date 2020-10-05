@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/08-journal-app/static/css/main.73af0645.chunk.css",
-    "main.js": "/08-journal-app/static/js/main.f624f5e2.chunk.js",
-    "main.js.map": "/08-journal-app/static/js/main.f624f5e2.chunk.js.map",
+    "main.js": "/08-journal-app/static/js/main.a9802d56.chunk.js",
+    "main.js.map": "/08-journal-app/static/js/main.a9802d56.chunk.js.map",
     "runtime-main.js": "/08-journal-app/static/js/runtime-main.8120ddf3.js",
     "runtime-main.js.map": "/08-journal-app/static/js/runtime-main.8120ddf3.js.map",
     "static/js/2.cb68e389.chunk.js": "/08-journal-app/static/js/2.cb68e389.chunk.js",
     "static/js/2.cb68e389.chunk.js.map": "/08-journal-app/static/js/2.cb68e389.chunk.js.map",
     "index.html": "/08-journal-app/index.html",
-    "precache-manifest.b19d82dff062db1c1a2faf7ed8a76331.js": "/08-journal-app/precache-manifest.b19d82dff062db1c1a2faf7ed8a76331.js",
+    "precache-manifest.f6525a403e67f5ff1792a5058410f241.js": "/08-journal-app/precache-manifest.f6525a403e67f5ff1792a5058410f241.js",
     "service-worker.js": "/08-journal-app/service-worker.js",
     "static/css/main.73af0645.chunk.css.map": "/08-journal-app/static/css/main.73af0645.chunk.css.map",
     "static/js/2.cb68e389.chunk.js.LICENSE.txt": "/08-journal-app/static/js/2.cb68e389.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8120ddf3.js",
     "static/js/2.cb68e389.chunk.js",
     "static/css/main.73af0645.chunk.css",
-    "static/js/main.f624f5e2.chunk.js"
+    "static/js/main.a9802d56.chunk.js"
   ]
 }
